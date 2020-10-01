@@ -1,5 +1,5 @@
 # The GAN Zoo
-
+([review report](https://www.jiqizhixin.com/articles/2020-03-03-12))
 <p align="center"><img width="40%" src="The_GAN_Zoo.jpg" /></p>
 
 Every week, new GAN papers are coming out and it's hard to keep track of them all, not to mention the incredibly creative ways in which researchers are naming these GANs! So, here's a list of what started as a fun activity compiling all named GANs!
